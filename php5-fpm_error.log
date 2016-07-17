@@ -1,0 +1,1438 @@
+[17-Oct-2014 23:11:45 America/New_York] PHP Parse error:  syntax error, unexpected 'f4b7f82db3e9bd1' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[17-Oct-2014 23:11:45 America/New_York] PHP Stack trace:
+[17-Oct-2014 23:11:45 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[17-Oct-2014 23:11:45 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[17-Oct-2014 23:11:45 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[17-Oct-2014 23:11:45 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[17-Oct-2014 23:11:45 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[17-Oct-2014 23:11:45 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[17-Oct-2014 23:11:45 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[17-Oct-2014 23:11:45 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[17-Oct-2014 23:11:45 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[17-Oct-2014 23:11:45 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[17-Oct-2014 23:11:45 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[17-Oct-2014 23:11:45 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[17-Oct-2014 23:11:45 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[17-Oct-2014 23:11:45 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[17-Oct-2014 23:11:45 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[17-Oct-2014 23:11:45 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[17-Oct-2014 23:11:45 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[17-Oct-2014 23:11:45 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[17-Oct-2014 23:13:12 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[17-Oct-2014 23:13:12 America/New_York] PHP Stack trace:
+[17-Oct-2014 23:13:12 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[17-Oct-2014 23:13:12 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[17-Oct-2014 23:13:12 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[17-Oct-2014 23:13:12 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[17-Oct-2014 23:13:12 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[17-Oct-2014 23:13:12 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[17-Oct-2014 23:13:12 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[17-Oct-2014 23:13:12 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[17-Oct-2014 23:13:12 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[17-Oct-2014 23:13:12 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[17-Oct-2014 23:13:12 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[17-Oct-2014 23:13:12 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[17-Oct-2014 23:13:12 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[17-Oct-2014 23:13:12 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[17-Oct-2014 23:13:12 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[17-Oct-2014 23:13:12 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[17-Oct-2014 23:13:12 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[17-Oct-2014 23:13:12 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[17-Oct-2014 23:13:12 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[17-Oct-2014 23:13:12 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[17-Oct-2014 23:13:14 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[17-Oct-2014 23:13:14 America/New_York] PHP Stack trace:
+[17-Oct-2014 23:13:14 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[17-Oct-2014 23:13:14 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[17-Oct-2014 23:13:14 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[17-Oct-2014 23:13:14 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[17-Oct-2014 23:13:14 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[17-Oct-2014 23:13:14 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[17-Oct-2014 23:13:14 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[17-Oct-2014 23:13:14 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[17-Oct-2014 23:13:14 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[17-Oct-2014 23:13:14 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[18-Oct-2014 20:00:19 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[18-Oct-2014 20:00:20 America/New_York] PHP Stack trace:
+[18-Oct-2014 20:00:20 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[18-Oct-2014 20:00:20 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[18-Oct-2014 20:00:20 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[18-Oct-2014 20:00:20 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[18-Oct-2014 20:00:20 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[18-Oct-2014 20:00:20 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[18-Oct-2014 20:00:20 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[18-Oct-2014 20:00:20 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[18-Oct-2014 20:00:20 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[18-Oct-2014 20:00:20 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[18-Oct-2014 20:00:20 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[18-Oct-2014 20:00:20 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[18-Oct-2014 20:00:20 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[18-Oct-2014 20:00:20 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[18-Oct-2014 20:00:20 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[18-Oct-2014 20:00:20 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[18-Oct-2014 20:00:20 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[18-Oct-2014 20:00:20 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[18-Oct-2014 22:24:05 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[18-Oct-2014 22:24:05 America/New_York] PHP Stack trace:
+[18-Oct-2014 22:24:05 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[18-Oct-2014 22:24:05 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[18-Oct-2014 22:24:05 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[18-Oct-2014 22:24:05 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[18-Oct-2014 22:24:05 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[18-Oct-2014 22:24:05 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[18-Oct-2014 22:24:05 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[18-Oct-2014 22:24:05 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[18-Oct-2014 22:24:05 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[18-Oct-2014 22:24:05 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[19-Oct-2014 15:56:54 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[19-Oct-2014 15:56:54 America/New_York] PHP Stack trace:
+[19-Oct-2014 15:56:54 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[19-Oct-2014 15:56:54 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[19-Oct-2014 15:56:54 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[19-Oct-2014 15:56:54 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[19-Oct-2014 15:56:54 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[19-Oct-2014 15:56:54 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[19-Oct-2014 15:56:54 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[19-Oct-2014 15:56:54 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[19-Oct-2014 15:56:54 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[19-Oct-2014 15:56:54 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[19-Oct-2014 15:56:54 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[19-Oct-2014 15:56:54 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[19-Oct-2014 15:56:54 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[19-Oct-2014 15:56:54 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[19-Oct-2014 15:56:54 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[19-Oct-2014 15:56:54 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[19-Oct-2014 15:56:54 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[19-Oct-2014 15:56:54 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[20-Oct-2014 19:00:47 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[20-Oct-2014 19:00:47 America/New_York] PHP Stack trace:
+[20-Oct-2014 19:00:47 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[20-Oct-2014 19:00:47 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[20-Oct-2014 19:00:47 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[20-Oct-2014 19:00:47 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[20-Oct-2014 19:00:47 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[20-Oct-2014 19:00:47 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[20-Oct-2014 19:00:47 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[20-Oct-2014 19:00:47 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[20-Oct-2014 19:00:47 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[20-Oct-2014 19:00:47 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[20-Oct-2014 19:00:47 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[20-Oct-2014 19:00:47 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[20-Oct-2014 19:00:47 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[20-Oct-2014 19:00:47 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[20-Oct-2014 19:00:47 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[20-Oct-2014 19:00:47 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[20-Oct-2014 19:00:47 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[20-Oct-2014 19:00:47 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[20-Oct-2014 19:00:47 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[20-Oct-2014 19:00:47 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[21-Oct-2014 16:17:31 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[21-Oct-2014 16:17:31 America/New_York] PHP Stack trace:
+[21-Oct-2014 16:17:31 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[21-Oct-2014 16:17:31 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[21-Oct-2014 16:17:31 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[21-Oct-2014 16:17:31 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[21-Oct-2014 16:17:31 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[21-Oct-2014 16:17:31 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[21-Oct-2014 16:17:31 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[21-Oct-2014 16:17:31 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[21-Oct-2014 16:17:31 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[21-Oct-2014 16:17:31 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[21-Oct-2014 16:17:42 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[21-Oct-2014 16:17:42 America/New_York] PHP Stack trace:
+[21-Oct-2014 16:17:42 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[21-Oct-2014 16:17:42 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[21-Oct-2014 16:17:42 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[21-Oct-2014 16:17:42 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[21-Oct-2014 16:17:42 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[21-Oct-2014 16:17:42 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[21-Oct-2014 16:17:42 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[21-Oct-2014 16:17:42 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[21-Oct-2014 16:17:42 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[21-Oct-2014 16:17:42 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[21-Oct-2014 16:17:42 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[21-Oct-2014 16:17:42 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[21-Oct-2014 16:17:42 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[21-Oct-2014 16:17:42 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[21-Oct-2014 16:17:42 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[21-Oct-2014 16:17:42 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[21-Oct-2014 16:17:42 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[21-Oct-2014 16:17:42 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[21-Oct-2014 16:17:42 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[21-Oct-2014 16:17:42 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[22-Oct-2014 08:16:52 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[22-Oct-2014 08:16:52 America/New_York] PHP Stack trace:
+[22-Oct-2014 08:16:52 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[22-Oct-2014 08:16:52 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[22-Oct-2014 08:16:52 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[22-Oct-2014 08:16:52 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[22-Oct-2014 08:16:52 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[22-Oct-2014 08:16:52 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[22-Oct-2014 08:16:52 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[22-Oct-2014 08:16:52 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[22-Oct-2014 08:16:52 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[22-Oct-2014 08:16:52 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[22-Oct-2014 08:16:52 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[22-Oct-2014 08:16:52 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[22-Oct-2014 08:16:52 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[22-Oct-2014 08:16:52 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[22-Oct-2014 08:16:52 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[22-Oct-2014 08:16:52 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[22-Oct-2014 08:16:52 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[22-Oct-2014 08:16:52 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[22-Oct-2014 08:16:52 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[22-Oct-2014 08:16:52 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[24-Oct-2014 18:09:24 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[24-Oct-2014 18:09:24 America/New_York] PHP Stack trace:
+[24-Oct-2014 18:09:24 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[24-Oct-2014 18:09:24 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[24-Oct-2014 18:09:24 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[24-Oct-2014 18:09:24 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[24-Oct-2014 18:09:24 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[24-Oct-2014 18:09:24 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[24-Oct-2014 18:09:24 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[24-Oct-2014 18:09:24 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[24-Oct-2014 18:09:24 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[24-Oct-2014 18:09:24 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[24-Oct-2014 18:56:09 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[24-Oct-2014 18:56:09 America/New_York] PHP Stack trace:
+[24-Oct-2014 18:56:09 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[24-Oct-2014 18:56:09 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[24-Oct-2014 18:56:09 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[24-Oct-2014 18:56:09 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[24-Oct-2014 18:56:09 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[24-Oct-2014 18:56:09 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[24-Oct-2014 18:56:09 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[24-Oct-2014 18:56:09 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[24-Oct-2014 18:56:09 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[24-Oct-2014 18:56:09 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[24-Oct-2014 18:56:09 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[24-Oct-2014 18:56:09 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[24-Oct-2014 18:56:09 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[24-Oct-2014 18:56:09 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[24-Oct-2014 18:56:09 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[24-Oct-2014 18:56:09 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[24-Oct-2014 18:56:09 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[24-Oct-2014 18:56:09 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[24-Oct-2014 18:56:09 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[24-Oct-2014 18:56:09 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[25-Oct-2014 15:35:21 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[25-Oct-2014 15:35:21 America/New_York] PHP Stack trace:
+[25-Oct-2014 15:35:21 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[25-Oct-2014 15:35:21 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[25-Oct-2014 15:35:21 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[25-Oct-2014 15:35:21 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[25-Oct-2014 15:35:21 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[25-Oct-2014 15:35:21 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[25-Oct-2014 15:35:21 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[25-Oct-2014 15:35:21 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[25-Oct-2014 15:35:21 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[25-Oct-2014 15:35:21 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[25-Oct-2014 15:35:21 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[25-Oct-2014 15:35:21 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[25-Oct-2014 15:35:21 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[25-Oct-2014 15:35:21 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[25-Oct-2014 15:35:21 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[25-Oct-2014 15:35:21 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[25-Oct-2014 15:35:21 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[25-Oct-2014 15:35:21 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[25-Oct-2014 18:12:13 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[25-Oct-2014 18:12:13 America/New_York] PHP Stack trace:
+[25-Oct-2014 18:12:13 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[25-Oct-2014 18:12:13 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[25-Oct-2014 18:12:13 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[25-Oct-2014 18:12:13 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[25-Oct-2014 18:12:13 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[25-Oct-2014 18:12:13 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[25-Oct-2014 18:12:13 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[25-Oct-2014 18:12:13 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[25-Oct-2014 18:12:13 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[25-Oct-2014 18:12:13 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[25-Oct-2014 18:14:13 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[25-Oct-2014 18:14:13 America/New_York] PHP Stack trace:
+[25-Oct-2014 18:14:13 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[25-Oct-2014 18:14:13 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[25-Oct-2014 18:14:13 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[25-Oct-2014 18:14:13 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[25-Oct-2014 18:14:13 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[25-Oct-2014 18:14:13 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[25-Oct-2014 18:14:13 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[25-Oct-2014 18:14:13 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[25-Oct-2014 18:14:13 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[25-Oct-2014 18:14:13 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[25-Oct-2014 18:14:13 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[25-Oct-2014 18:14:13 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[25-Oct-2014 18:14:13 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[25-Oct-2014 18:14:13 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[25-Oct-2014 18:14:13 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[25-Oct-2014 18:14:13 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[25-Oct-2014 18:14:13 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[25-Oct-2014 18:14:13 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[26-Oct-2014 00:04:00 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[26-Oct-2014 00:04:02 America/New_York] PHP Stack trace:
+[26-Oct-2014 00:04:02 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[26-Oct-2014 00:04:02 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[26-Oct-2014 00:04:02 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[26-Oct-2014 00:04:02 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[26-Oct-2014 00:04:02 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[26-Oct-2014 00:04:02 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[26-Oct-2014 00:04:02 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[26-Oct-2014 00:04:02 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[26-Oct-2014 00:04:02 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[26-Oct-2014 00:04:02 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 05:15:45 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[28-Oct-2014 05:15:45 America/New_York] PHP Stack trace:
+[28-Oct-2014 05:15:45 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[28-Oct-2014 05:15:45 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[28-Oct-2014 05:15:45 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[28-Oct-2014 05:15:45 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[28-Oct-2014 05:15:45 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[28-Oct-2014 05:15:45 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[28-Oct-2014 05:15:45 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[28-Oct-2014 05:15:45 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[28-Oct-2014 05:15:45 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[28-Oct-2014 05:15:45 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[28-Oct-2014 05:15:45 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[28-Oct-2014 05:15:45 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[28-Oct-2014 05:15:45 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[28-Oct-2014 05:15:45 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[28-Oct-2014 05:15:45 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[28-Oct-2014 05:15:45 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[28-Oct-2014 05:15:45 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[28-Oct-2014 05:15:45 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[28-Oct-2014 05:15:45 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 05:15:45 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 05:17:36 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[28-Oct-2014 05:17:36 America/New_York] PHP Stack trace:
+[28-Oct-2014 05:17:36 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[28-Oct-2014 05:17:36 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[28-Oct-2014 05:17:36 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[28-Oct-2014 05:17:36 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[28-Oct-2014 05:17:36 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[28-Oct-2014 05:17:36 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[28-Oct-2014 05:17:36 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[28-Oct-2014 05:17:36 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[28-Oct-2014 05:17:36 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 05:17:36 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 08:36:01 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[28-Oct-2014 08:36:01 America/New_York] PHP Stack trace:
+[28-Oct-2014 08:36:01 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[28-Oct-2014 08:36:01 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[28-Oct-2014 08:36:01 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[28-Oct-2014 08:36:01 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[28-Oct-2014 08:36:01 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[28-Oct-2014 08:36:01 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[28-Oct-2014 08:36:01 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[28-Oct-2014 08:36:01 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[28-Oct-2014 08:36:01 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[28-Oct-2014 08:36:01 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[28-Oct-2014 08:36:01 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[28-Oct-2014 08:36:01 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[28-Oct-2014 08:36:01 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[28-Oct-2014 08:36:01 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[28-Oct-2014 08:36:01 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[28-Oct-2014 08:36:01 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[28-Oct-2014 08:36:01 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 08:36:01 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 14:20:25 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[28-Oct-2014 14:20:25 America/New_York] PHP Stack trace:
+[28-Oct-2014 14:20:25 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[28-Oct-2014 14:20:25 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[28-Oct-2014 14:20:25 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[28-Oct-2014 14:20:25 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[28-Oct-2014 14:20:25 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[28-Oct-2014 14:20:25 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[28-Oct-2014 14:20:25 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[28-Oct-2014 14:20:25 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[28-Oct-2014 14:20:25 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[28-Oct-2014 14:20:25 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[28-Oct-2014 14:20:25 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[28-Oct-2014 14:20:25 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[28-Oct-2014 14:20:25 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[28-Oct-2014 14:20:25 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[28-Oct-2014 14:20:25 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[28-Oct-2014 14:20:25 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[28-Oct-2014 14:20:25 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 14:20:25 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 15:21:39 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[28-Oct-2014 15:21:39 America/New_York] PHP Stack trace:
+[28-Oct-2014 15:21:39 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[28-Oct-2014 15:21:39 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[28-Oct-2014 15:21:39 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[28-Oct-2014 15:21:39 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[28-Oct-2014 15:21:39 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[28-Oct-2014 15:21:39 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[28-Oct-2014 15:21:39 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[28-Oct-2014 15:21:39 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[28-Oct-2014 15:21:39 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[28-Oct-2014 15:21:39 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 01:30:49 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[29-Oct-2014 01:30:49 America/New_York] PHP Stack trace:
+[29-Oct-2014 01:30:49 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[29-Oct-2014 01:30:49 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[29-Oct-2014 01:30:49 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[29-Oct-2014 01:30:49 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[29-Oct-2014 01:30:49 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[29-Oct-2014 01:30:49 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[29-Oct-2014 01:30:49 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[29-Oct-2014 01:30:49 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[29-Oct-2014 01:30:49 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[29-Oct-2014 01:30:49 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[29-Oct-2014 01:30:49 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[29-Oct-2014 01:30:49 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[29-Oct-2014 01:30:49 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[29-Oct-2014 01:30:49 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[29-Oct-2014 01:30:49 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[29-Oct-2014 01:30:49 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[29-Oct-2014 01:30:49 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 01:30:49 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 01:54:24 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[29-Oct-2014 01:54:24 America/New_York] PHP Stack trace:
+[29-Oct-2014 01:54:24 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[29-Oct-2014 01:54:24 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[29-Oct-2014 01:54:24 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[29-Oct-2014 01:54:24 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[29-Oct-2014 01:54:24 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[29-Oct-2014 01:54:24 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[29-Oct-2014 01:54:24 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[29-Oct-2014 01:54:24 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[29-Oct-2014 01:54:24 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[29-Oct-2014 01:54:24 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[29-Oct-2014 01:54:24 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[29-Oct-2014 01:54:24 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[29-Oct-2014 01:54:24 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[29-Oct-2014 01:54:24 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[29-Oct-2014 01:54:24 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[29-Oct-2014 01:54:24 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[29-Oct-2014 01:54:24 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 01:54:24 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 07:49:12 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[29-Oct-2014 07:49:12 America/New_York] PHP Stack trace:
+[29-Oct-2014 07:49:12 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[29-Oct-2014 07:49:12 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[29-Oct-2014 07:49:12 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[29-Oct-2014 07:49:12 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[29-Oct-2014 07:49:12 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[29-Oct-2014 07:49:12 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[29-Oct-2014 07:49:12 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[29-Oct-2014 07:49:12 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[29-Oct-2014 07:49:12 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[29-Oct-2014 07:49:12 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[29-Oct-2014 07:49:12 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[29-Oct-2014 07:49:12 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[29-Oct-2014 07:49:12 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[29-Oct-2014 07:49:12 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[29-Oct-2014 07:49:12 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[29-Oct-2014 07:49:12 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[29-Oct-2014 07:49:12 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 07:49:12 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 07:49:13 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[29-Oct-2014 07:49:13 America/New_York] PHP Stack trace:
+[29-Oct-2014 07:49:13 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[29-Oct-2014 07:49:13 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[29-Oct-2014 07:49:13 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[29-Oct-2014 07:49:13 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[29-Oct-2014 07:49:13 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[29-Oct-2014 07:49:13 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[29-Oct-2014 07:49:13 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[29-Oct-2014 07:49:13 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[29-Oct-2014 07:49:13 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 07:49:13 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 23:39:30 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[29-Oct-2014 23:39:30 America/New_York] PHP Stack trace:
+[29-Oct-2014 23:39:30 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[29-Oct-2014 23:39:30 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[29-Oct-2014 23:39:30 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[29-Oct-2014 23:39:30 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[29-Oct-2014 23:39:30 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[29-Oct-2014 23:39:30 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[29-Oct-2014 23:39:30 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[29-Oct-2014 23:39:30 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[29-Oct-2014 23:39:30 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[29-Oct-2014 23:39:30 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[29-Oct-2014 23:39:30 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[29-Oct-2014 23:39:30 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[29-Oct-2014 23:39:30 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[29-Oct-2014 23:39:30 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[29-Oct-2014 23:39:30 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[29-Oct-2014 23:39:30 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[29-Oct-2014 23:39:30 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 23:39:30 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 23:39:31 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[29-Oct-2014 23:39:31 America/New_York] PHP Stack trace:
+[29-Oct-2014 23:39:31 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[29-Oct-2014 23:39:31 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[29-Oct-2014 23:39:31 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[29-Oct-2014 23:39:31 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[29-Oct-2014 23:39:31 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[29-Oct-2014 23:39:31 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[29-Oct-2014 23:39:31 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[29-Oct-2014 23:39:31 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[29-Oct-2014 23:39:31 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[29-Oct-2014 23:39:31 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 07:57:04 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[30-Oct-2014 07:57:04 America/New_York] PHP Stack trace:
+[30-Oct-2014 07:57:04 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[30-Oct-2014 07:57:04 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[30-Oct-2014 07:57:04 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[30-Oct-2014 07:57:04 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[30-Oct-2014 07:57:04 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[30-Oct-2014 07:57:04 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[30-Oct-2014 07:57:04 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[30-Oct-2014 07:57:04 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[30-Oct-2014 07:57:04 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[30-Oct-2014 07:57:04 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[30-Oct-2014 07:57:04 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[30-Oct-2014 07:57:04 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[30-Oct-2014 07:57:04 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[30-Oct-2014 07:57:04 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[30-Oct-2014 07:57:04 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[30-Oct-2014 07:57:04 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[30-Oct-2014 07:57:04 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[30-Oct-2014 07:57:04 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[30-Oct-2014 07:57:04 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 07:57:04 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 07:57:21 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[30-Oct-2014 07:57:21 America/New_York] PHP Stack trace:
+[30-Oct-2014 07:57:21 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[30-Oct-2014 07:57:21 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[30-Oct-2014 07:57:21 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[30-Oct-2014 07:57:21 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[30-Oct-2014 07:57:21 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[30-Oct-2014 07:57:21 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[30-Oct-2014 07:57:21 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[30-Oct-2014 07:57:21 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[30-Oct-2014 07:57:21 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[30-Oct-2014 07:57:21 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[30-Oct-2014 07:57:21 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[30-Oct-2014 07:57:21 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[30-Oct-2014 07:57:21 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[30-Oct-2014 07:57:21 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[30-Oct-2014 07:57:21 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[30-Oct-2014 07:57:21 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[30-Oct-2014 07:57:21 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[30-Oct-2014 07:57:21 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[30-Oct-2014 07:57:21 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 07:57:21 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 07:57:22 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[30-Oct-2014 07:57:22 America/New_York] PHP Stack trace:
+[30-Oct-2014 07:57:22 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[30-Oct-2014 07:57:22 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[30-Oct-2014 07:57:22 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[30-Oct-2014 07:57:22 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[30-Oct-2014 07:57:22 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[30-Oct-2014 07:57:22 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[30-Oct-2014 07:57:22 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[30-Oct-2014 07:57:22 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[30-Oct-2014 07:57:22 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[30-Oct-2014 07:57:22 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[30-Oct-2014 07:57:22 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[30-Oct-2014 07:57:22 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[30-Oct-2014 07:57:22 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[30-Oct-2014 07:57:22 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[30-Oct-2014 07:57:22 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[30-Oct-2014 07:57:22 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[30-Oct-2014 07:57:22 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[30-Oct-2014 07:57:22 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[30-Oct-2014 07:57:22 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 07:57:22 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 07:57:22 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[30-Oct-2014 07:57:22 America/New_York] PHP Stack trace:
+[30-Oct-2014 07:57:22 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[30-Oct-2014 07:57:22 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[30-Oct-2014 07:57:22 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[30-Oct-2014 07:57:22 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[30-Oct-2014 07:57:22 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[30-Oct-2014 07:57:22 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[30-Oct-2014 07:57:22 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[30-Oct-2014 07:57:22 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[30-Oct-2014 07:57:22 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[30-Oct-2014 07:57:22 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[30-Oct-2014 07:57:22 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[30-Oct-2014 07:57:22 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[30-Oct-2014 07:57:22 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[30-Oct-2014 07:57:22 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[30-Oct-2014 07:57:22 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[30-Oct-2014 07:57:22 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[30-Oct-2014 07:57:22 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[30-Oct-2014 07:57:22 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[30-Oct-2014 07:57:22 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 07:57:22 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 10:26:48 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[30-Oct-2014 10:26:48 America/New_York] PHP Stack trace:
+[30-Oct-2014 10:26:48 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[30-Oct-2014 10:26:48 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[30-Oct-2014 10:26:48 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[30-Oct-2014 10:26:48 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[30-Oct-2014 10:26:48 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[30-Oct-2014 10:26:48 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[30-Oct-2014 10:26:48 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[30-Oct-2014 10:26:48 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[30-Oct-2014 10:26:48 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 10:26:48 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 14:11:51 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[30-Oct-2014 14:11:51 America/New_York] PHP Stack trace:
+[30-Oct-2014 14:11:51 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[30-Oct-2014 14:11:51 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[30-Oct-2014 14:11:51 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[30-Oct-2014 14:11:51 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[30-Oct-2014 14:11:51 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[30-Oct-2014 14:11:51 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[30-Oct-2014 14:11:51 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[30-Oct-2014 14:11:51 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[30-Oct-2014 14:11:51 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[30-Oct-2014 14:11:51 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[30-Oct-2014 14:11:51 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[30-Oct-2014 14:11:51 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[30-Oct-2014 14:11:51 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[30-Oct-2014 14:11:51 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[30-Oct-2014 14:11:51 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[30-Oct-2014 14:11:51 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[30-Oct-2014 14:11:51 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[30-Oct-2014 14:11:51 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[31-Oct-2014 03:44:52 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[31-Oct-2014 03:44:52 America/New_York] PHP Stack trace:
+[31-Oct-2014 03:44:52 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[31-Oct-2014 03:44:52 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[31-Oct-2014 03:44:52 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[31-Oct-2014 03:44:52 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[31-Oct-2014 03:44:52 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[31-Oct-2014 03:44:52 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[31-Oct-2014 03:44:52 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[31-Oct-2014 03:44:52 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[31-Oct-2014 03:44:52 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[31-Oct-2014 03:44:52 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[31-Oct-2014 03:44:52 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[31-Oct-2014 03:44:52 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[31-Oct-2014 03:44:52 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[31-Oct-2014 03:44:52 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[31-Oct-2014 03:44:52 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[31-Oct-2014 03:44:52 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[31-Oct-2014 03:44:52 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[31-Oct-2014 03:44:52 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[31-Oct-2014 07:06:07 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[31-Oct-2014 07:06:07 America/New_York] PHP Stack trace:
+[31-Oct-2014 07:06:07 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[31-Oct-2014 07:06:07 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[31-Oct-2014 07:06:07 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[31-Oct-2014 07:06:07 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[31-Oct-2014 07:06:07 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[31-Oct-2014 07:06:07 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[31-Oct-2014 07:06:07 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[31-Oct-2014 07:06:07 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[31-Oct-2014 07:06:07 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[31-Oct-2014 07:06:07 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[31-Oct-2014 07:06:07 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[31-Oct-2014 07:06:07 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[31-Oct-2014 07:06:07 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[31-Oct-2014 07:06:07 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[31-Oct-2014 07:06:07 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[31-Oct-2014 07:06:07 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[31-Oct-2014 07:06:07 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[31-Oct-2014 07:06:07 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[31-Oct-2014 22:31:52 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[31-Oct-2014 22:31:52 America/New_York] PHP Stack trace:
+[31-Oct-2014 22:31:52 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[31-Oct-2014 22:31:52 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[31-Oct-2014 22:31:52 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[31-Oct-2014 22:31:52 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[31-Oct-2014 22:31:52 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[31-Oct-2014 22:31:52 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[31-Oct-2014 22:31:52 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[31-Oct-2014 22:31:52 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[31-Oct-2014 22:31:52 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[31-Oct-2014 22:31:52 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[31-Oct-2014 22:31:52 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[31-Oct-2014 22:31:52 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[31-Oct-2014 22:31:52 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[31-Oct-2014 22:31:52 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[31-Oct-2014 22:31:52 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[31-Oct-2014 22:31:52 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[31-Oct-2014 22:31:52 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[31-Oct-2014 22:31:52 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 17:18:35 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[03-Nov-2014 17:18:35 America/New_York] PHP Stack trace:
+[03-Nov-2014 17:18:35 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[03-Nov-2014 17:18:35 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[03-Nov-2014 17:18:35 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[03-Nov-2014 17:18:35 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[03-Nov-2014 17:18:35 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[03-Nov-2014 17:18:35 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[03-Nov-2014 17:18:35 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[03-Nov-2014 17:18:35 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[03-Nov-2014 17:18:35 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[03-Nov-2014 17:18:35 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[03-Nov-2014 17:18:35 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[03-Nov-2014 17:18:35 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[03-Nov-2014 17:18:35 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[03-Nov-2014 17:18:35 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[03-Nov-2014 17:18:35 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[03-Nov-2014 17:18:35 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[03-Nov-2014 17:18:35 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 17:18:35 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 18:54:31 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[03-Nov-2014 18:54:31 America/New_York] PHP Stack trace:
+[03-Nov-2014 18:54:31 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[03-Nov-2014 18:54:31 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[03-Nov-2014 18:54:31 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[03-Nov-2014 18:54:31 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[03-Nov-2014 18:54:31 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[03-Nov-2014 18:54:31 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[03-Nov-2014 18:54:31 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[03-Nov-2014 18:54:31 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[03-Nov-2014 18:54:31 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[03-Nov-2014 18:54:31 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[03-Nov-2014 18:54:31 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[03-Nov-2014 18:54:31 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[03-Nov-2014 18:54:31 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[03-Nov-2014 18:54:31 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[03-Nov-2014 18:54:31 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[03-Nov-2014 18:54:31 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[03-Nov-2014 18:54:31 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[03-Nov-2014 18:54:31 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[03-Nov-2014 18:54:31 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 18:54:31 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 19:35:53 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[03-Nov-2014 19:35:53 America/New_York] PHP Stack trace:
+[03-Nov-2014 19:35:53 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[03-Nov-2014 19:35:53 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[03-Nov-2014 19:35:53 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[03-Nov-2014 19:35:53 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[03-Nov-2014 19:35:53 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[03-Nov-2014 19:35:53 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[03-Nov-2014 19:35:53 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[03-Nov-2014 19:35:53 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[03-Nov-2014 19:35:53 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[03-Nov-2014 19:35:53 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[03-Nov-2014 19:35:53 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[03-Nov-2014 19:35:53 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[03-Nov-2014 19:35:53 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[03-Nov-2014 19:35:53 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[03-Nov-2014 19:35:53 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[03-Nov-2014 19:35:53 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[03-Nov-2014 19:35:53 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[03-Nov-2014 19:35:53 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[03-Nov-2014 19:35:53 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 19:35:53 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 21:25:31 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[03-Nov-2014 21:25:31 America/New_York] PHP Stack trace:
+[03-Nov-2014 21:25:31 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[03-Nov-2014 21:25:31 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[03-Nov-2014 21:25:31 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[03-Nov-2014 21:25:31 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[03-Nov-2014 21:25:31 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[03-Nov-2014 21:25:31 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[03-Nov-2014 21:25:31 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[03-Nov-2014 21:25:31 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[03-Nov-2014 21:25:31 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[03-Nov-2014 21:25:31 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[03-Nov-2014 21:25:31 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[03-Nov-2014 21:25:31 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[03-Nov-2014 21:25:31 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[03-Nov-2014 21:25:31 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[03-Nov-2014 21:25:31 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[03-Nov-2014 21:25:31 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[03-Nov-2014 21:25:31 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[03-Nov-2014 21:25:31 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[03-Nov-2014 21:25:31 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 21:25:31 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 22:06:55 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[03-Nov-2014 22:06:55 America/New_York] PHP Stack trace:
+[03-Nov-2014 22:06:55 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[03-Nov-2014 22:06:55 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[03-Nov-2014 22:06:55 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[03-Nov-2014 22:06:55 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[03-Nov-2014 22:06:55 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[03-Nov-2014 22:06:55 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[03-Nov-2014 22:06:55 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[03-Nov-2014 22:06:55 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[03-Nov-2014 22:06:55 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 22:06:55 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 22:36:49 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[03-Nov-2014 22:36:49 America/New_York] PHP Stack trace:
+[03-Nov-2014 22:36:49 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[03-Nov-2014 22:36:49 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[03-Nov-2014 22:36:49 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[03-Nov-2014 22:36:49 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[03-Nov-2014 22:36:49 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[03-Nov-2014 22:36:49 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[03-Nov-2014 22:36:49 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[03-Nov-2014 22:36:49 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[03-Nov-2014 22:36:49 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[03-Nov-2014 22:36:49 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[03-Nov-2014 22:36:49 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[03-Nov-2014 22:36:49 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[03-Nov-2014 22:36:49 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[03-Nov-2014 22:36:49 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[03-Nov-2014 22:36:49 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[03-Nov-2014 22:36:49 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[03-Nov-2014 22:36:49 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[03-Nov-2014 22:36:49 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[03-Nov-2014 22:36:49 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[03-Nov-2014 22:36:49 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[04-Nov-2014 03:14:03 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[04-Nov-2014 03:14:03 America/New_York] PHP Stack trace:
+[04-Nov-2014 03:14:03 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[04-Nov-2014 03:14:03 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[04-Nov-2014 03:14:03 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[04-Nov-2014 03:14:03 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[04-Nov-2014 03:14:03 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[04-Nov-2014 03:14:03 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[04-Nov-2014 03:14:03 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[04-Nov-2014 03:14:03 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[04-Nov-2014 03:14:03 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[04-Nov-2014 03:14:03 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[04-Nov-2014 18:39:11 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[04-Nov-2014 18:39:11 America/New_York] PHP Stack trace:
+[04-Nov-2014 18:39:11 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[04-Nov-2014 18:39:11 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[04-Nov-2014 18:39:11 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[04-Nov-2014 18:39:11 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[04-Nov-2014 18:39:11 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[04-Nov-2014 18:39:11 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[04-Nov-2014 18:39:11 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[04-Nov-2014 18:39:11 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[04-Nov-2014 18:39:11 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[04-Nov-2014 18:39:11 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[05-Nov-2014 21:11:57 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[05-Nov-2014 21:11:57 America/New_York] PHP Stack trace:
+[05-Nov-2014 21:11:57 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[05-Nov-2014 21:11:57 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[05-Nov-2014 21:11:57 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[05-Nov-2014 21:11:57 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[05-Nov-2014 21:11:57 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[05-Nov-2014 21:11:57 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[05-Nov-2014 21:11:57 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[05-Nov-2014 21:11:57 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[05-Nov-2014 21:11:57 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[05-Nov-2014 21:11:57 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[05-Nov-2014 21:11:57 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[05-Nov-2014 21:11:57 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[05-Nov-2014 21:11:57 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[05-Nov-2014 21:11:57 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[05-Nov-2014 21:11:57 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[05-Nov-2014 21:11:57 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[05-Nov-2014 21:11:57 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[05-Nov-2014 21:11:57 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[05-Nov-2014 21:11:57 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[05-Nov-2014 21:11:57 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[06-Nov-2014 06:06:14 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[06-Nov-2014 06:06:14 America/New_York] PHP Stack trace:
+[06-Nov-2014 06:06:14 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[06-Nov-2014 06:06:14 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[06-Nov-2014 06:06:14 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[06-Nov-2014 06:06:14 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[06-Nov-2014 06:06:14 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[06-Nov-2014 06:06:14 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[06-Nov-2014 06:06:14 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[06-Nov-2014 06:06:14 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[06-Nov-2014 06:06:14 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[06-Nov-2014 06:06:14 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[06-Nov-2014 06:06:14 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[06-Nov-2014 06:06:14 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[06-Nov-2014 06:06:14 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[06-Nov-2014 06:06:14 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[06-Nov-2014 06:06:14 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[06-Nov-2014 06:06:14 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[06-Nov-2014 06:06:14 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[06-Nov-2014 06:06:14 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[06-Nov-2014 11:50:29 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[06-Nov-2014 11:50:29 America/New_York] PHP Stack trace:
+[06-Nov-2014 11:50:29 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[06-Nov-2014 11:50:29 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[06-Nov-2014 11:50:29 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[06-Nov-2014 11:50:29 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[06-Nov-2014 11:50:29 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[06-Nov-2014 11:50:29 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[06-Nov-2014 11:50:29 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[06-Nov-2014 11:50:29 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[06-Nov-2014 11:50:29 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[06-Nov-2014 11:50:29 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[06-Nov-2014 19:28:05 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[06-Nov-2014 19:28:05 America/New_York] PHP Stack trace:
+[06-Nov-2014 19:28:05 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[06-Nov-2014 19:28:05 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[06-Nov-2014 19:28:05 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[06-Nov-2014 19:28:05 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[06-Nov-2014 19:28:05 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[06-Nov-2014 19:28:05 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[06-Nov-2014 19:28:05 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[06-Nov-2014 19:28:05 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[06-Nov-2014 19:28:05 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[06-Nov-2014 19:28:05 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[06-Nov-2014 19:28:05 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[06-Nov-2014 19:28:05 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[06-Nov-2014 19:28:05 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[06-Nov-2014 19:28:05 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[06-Nov-2014 19:28:05 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[06-Nov-2014 19:28:05 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[06-Nov-2014 19:28:05 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[06-Nov-2014 19:28:05 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[06-Nov-2014 19:28:05 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[06-Nov-2014 19:28:05 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[08-Nov-2014 05:20:56 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[08-Nov-2014 05:20:57 America/New_York] PHP Stack trace:
+[08-Nov-2014 05:20:57 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[08-Nov-2014 05:20:57 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[08-Nov-2014 05:20:57 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[08-Nov-2014 05:20:57 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[08-Nov-2014 05:20:57 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[08-Nov-2014 05:20:58 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[08-Nov-2014 05:20:58 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[08-Nov-2014 05:20:58 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[08-Nov-2014 05:20:58 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[08-Nov-2014 05:20:58 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[08-Nov-2014 05:20:58 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[08-Nov-2014 05:20:58 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[08-Nov-2014 05:20:58 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[08-Nov-2014 05:20:58 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[08-Nov-2014 05:20:58 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[08-Nov-2014 05:20:58 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[08-Nov-2014 05:20:58 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[08-Nov-2014 05:20:58 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[09-Nov-2014 17:36:34 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[09-Nov-2014 17:36:35 America/New_York] PHP Stack trace:
+[09-Nov-2014 17:36:35 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[09-Nov-2014 17:36:35 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[09-Nov-2014 17:36:35 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[09-Nov-2014 17:36:35 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[09-Nov-2014 17:36:35 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[09-Nov-2014 17:36:35 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[09-Nov-2014 17:36:35 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[09-Nov-2014 17:36:35 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[09-Nov-2014 17:36:35 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[09-Nov-2014 17:36:35 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[10-Nov-2014 05:06:45 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[10-Nov-2014 05:06:46 America/New_York] PHP Stack trace:
+[10-Nov-2014 05:06:46 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[10-Nov-2014 05:06:46 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[10-Nov-2014 05:06:46 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[10-Nov-2014 05:06:46 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[10-Nov-2014 05:06:46 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[10-Nov-2014 05:06:46 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[10-Nov-2014 05:06:46 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[10-Nov-2014 05:06:46 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[10-Nov-2014 05:06:46 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[10-Nov-2014 05:06:46 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[10-Nov-2014 05:09:07 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[10-Nov-2014 05:09:07 America/New_York] PHP Stack trace:
+[10-Nov-2014 05:09:07 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[10-Nov-2014 05:09:07 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[10-Nov-2014 05:09:07 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[10-Nov-2014 05:09:07 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[10-Nov-2014 05:09:07 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[10-Nov-2014 05:09:07 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[10-Nov-2014 05:09:07 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[10-Nov-2014 05:09:07 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[10-Nov-2014 05:09:07 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[10-Nov-2014 05:09:07 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[10-Nov-2014 05:09:07 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[10-Nov-2014 05:09:07 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[10-Nov-2014 05:09:07 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[10-Nov-2014 05:09:07 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[10-Nov-2014 05:09:07 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[10-Nov-2014 05:09:07 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[10-Nov-2014 05:09:07 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[10-Nov-2014 05:09:07 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[10-Nov-2014 22:27:52 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[10-Nov-2014 22:27:52 America/New_York] PHP Stack trace:
+[10-Nov-2014 22:27:52 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[10-Nov-2014 22:27:52 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[10-Nov-2014 22:27:52 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[10-Nov-2014 22:27:52 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[10-Nov-2014 22:27:52 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[10-Nov-2014 22:27:52 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[10-Nov-2014 22:27:52 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[10-Nov-2014 22:27:52 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[10-Nov-2014 22:27:52 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[10-Nov-2014 22:27:52 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[11-Nov-2014 05:58:47 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[11-Nov-2014 05:58:47 America/New_York] PHP Stack trace:
+[11-Nov-2014 05:58:47 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[11-Nov-2014 05:58:48 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[11-Nov-2014 05:58:48 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[11-Nov-2014 05:58:48 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[11-Nov-2014 05:58:48 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[11-Nov-2014 05:58:48 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[11-Nov-2014 05:58:48 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[11-Nov-2014 05:58:48 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[11-Nov-2014 05:58:48 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[11-Nov-2014 05:58:48 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[15-Nov-2014 09:16:44 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[15-Nov-2014 09:16:45 America/New_York] PHP Stack trace:
+[15-Nov-2014 09:16:45 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[15-Nov-2014 09:16:45 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[15-Nov-2014 09:16:45 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[15-Nov-2014 09:16:45 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[15-Nov-2014 09:16:45 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[15-Nov-2014 09:16:45 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[15-Nov-2014 09:16:45 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[15-Nov-2014 09:16:45 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[15-Nov-2014 09:16:45 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[15-Nov-2014 09:16:45 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[16-Nov-2014 04:33:56 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[16-Nov-2014 04:33:56 America/New_York] PHP Stack trace:
+[16-Nov-2014 04:33:57 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[16-Nov-2014 04:33:57 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[16-Nov-2014 04:33:57 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[16-Nov-2014 04:33:57 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[16-Nov-2014 04:33:57 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[16-Nov-2014 04:33:57 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[16-Nov-2014 04:33:57 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[16-Nov-2014 04:33:57 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[16-Nov-2014 04:33:57 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[16-Nov-2014 04:33:57 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[16-Nov-2014 04:33:57 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[16-Nov-2014 04:33:57 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[16-Nov-2014 04:33:57 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[16-Nov-2014 04:33:57 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[16-Nov-2014 04:33:57 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[16-Nov-2014 04:33:57 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[16-Nov-2014 04:33:57 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[16-Nov-2014 04:33:57 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[17-Nov-2014 16:01:36 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[17-Nov-2014 16:01:36 America/New_York] PHP Stack trace:
+[17-Nov-2014 16:01:36 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[17-Nov-2014 16:01:36 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[17-Nov-2014 16:01:36 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[17-Nov-2014 16:01:36 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[17-Nov-2014 16:01:36 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[17-Nov-2014 16:01:36 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[17-Nov-2014 16:01:36 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[17-Nov-2014 16:01:36 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[17-Nov-2014 16:01:36 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[17-Nov-2014 16:01:36 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[17-Nov-2014 16:01:36 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[17-Nov-2014 16:01:36 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[17-Nov-2014 16:01:36 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[17-Nov-2014 16:01:36 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[17-Nov-2014 16:01:36 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[17-Nov-2014 16:01:36 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[17-Nov-2014 16:01:36 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[17-Nov-2014 16:01:36 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[20-Nov-2014 03:04:48 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[20-Nov-2014 03:04:49 America/New_York] PHP Stack trace:
+[20-Nov-2014 03:04:53 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[20-Nov-2014 03:04:53 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[20-Nov-2014 03:04:53 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[20-Nov-2014 03:04:53 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[20-Nov-2014 03:04:53 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[20-Nov-2014 03:04:53 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[20-Nov-2014 03:04:53 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[20-Nov-2014 03:04:53 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[20-Nov-2014 03:04:53 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[20-Nov-2014 03:04:53 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[20-Nov-2014 03:04:53 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[20-Nov-2014 03:04:53 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[20-Nov-2014 03:04:53 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[20-Nov-2014 03:04:53 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[20-Nov-2014 03:04:53 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[20-Nov-2014 03:04:53 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[20-Nov-2014 03:04:53 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[20-Nov-2014 03:04:53 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[20-Nov-2014 03:04:53 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[20-Nov-2014 03:04:53 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[20-Nov-2014 12:39:41 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[20-Nov-2014 12:39:41 America/New_York] PHP Stack trace:
+[20-Nov-2014 12:39:41 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[20-Nov-2014 12:39:41 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[20-Nov-2014 12:39:41 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[20-Nov-2014 12:39:41 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[20-Nov-2014 12:39:41 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[20-Nov-2014 12:39:41 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[20-Nov-2014 12:39:41 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[20-Nov-2014 12:39:41 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[20-Nov-2014 12:39:41 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[20-Nov-2014 12:39:41 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[20-Nov-2014 19:22:09 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[20-Nov-2014 19:22:09 America/New_York] PHP Stack trace:
+[20-Nov-2014 19:22:09 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[20-Nov-2014 19:22:09 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[20-Nov-2014 19:22:09 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[20-Nov-2014 19:22:09 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[20-Nov-2014 19:22:09 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[20-Nov-2014 19:22:09 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[20-Nov-2014 19:22:09 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[20-Nov-2014 19:22:09 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[20-Nov-2014 19:22:09 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[20-Nov-2014 19:22:09 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[21-Nov-2014 06:42:59 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[21-Nov-2014 06:42:59 America/New_York] PHP Stack trace:
+[21-Nov-2014 06:42:59 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[21-Nov-2014 06:42:59 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[21-Nov-2014 06:42:59 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[21-Nov-2014 06:42:59 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[21-Nov-2014 06:42:59 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[21-Nov-2014 06:42:59 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[21-Nov-2014 06:42:59 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[21-Nov-2014 06:42:59 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[21-Nov-2014 06:42:59 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[21-Nov-2014 06:42:59 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[21-Nov-2014 13:26:36 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[21-Nov-2014 13:26:36 America/New_York] PHP Stack trace:
+[21-Nov-2014 13:26:36 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[21-Nov-2014 13:26:36 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[21-Nov-2014 13:26:36 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[21-Nov-2014 13:26:36 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[21-Nov-2014 13:26:36 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[21-Nov-2014 13:26:36 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[21-Nov-2014 13:26:36 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[21-Nov-2014 13:26:36 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[21-Nov-2014 13:26:36 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[21-Nov-2014 13:26:36 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[21-Nov-2014 13:26:36 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[21-Nov-2014 13:26:36 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[21-Nov-2014 13:26:36 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[21-Nov-2014 13:26:36 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[21-Nov-2014 13:26:36 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[21-Nov-2014 13:26:36 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[21-Nov-2014 13:26:36 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[21-Nov-2014 13:26:36 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[21-Nov-2014 13:26:36 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[21-Nov-2014 13:26:36 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[24-Nov-2014 03:15:09 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[24-Nov-2014 03:15:10 America/New_York] PHP Stack trace:
+[24-Nov-2014 03:15:10 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[24-Nov-2014 03:15:10 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[24-Nov-2014 03:15:10 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[24-Nov-2014 03:15:10 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[24-Nov-2014 03:15:10 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[24-Nov-2014 03:15:10 America/New_York] PHP   6. block_page_build() /var/www/drupal_7/includes/common.inc:5747
+[24-Nov-2014 03:15:10 America/New_York] PHP   7. block_get_blocks_by_region() /var/www/drupal_7/modules/block/block.module:268
+[24-Nov-2014 03:15:10 America/New_York] PHP   8. block_list() /var/www/drupal_7/modules/block/block.module:318
+[24-Nov-2014 03:15:10 America/New_York] PHP   9. _block_render_blocks() /var/www/drupal_7/modules/block/block.module:686
+[24-Nov-2014 03:15:10 America/New_York] PHP  10. module_invoke() /var/www/drupal_7/modules/block/block.module:893
+[24-Nov-2014 03:15:10 America/New_York] PHP  11. call_user_func_array() /var/www/drupal_7/includes/module.inc:866
+[24-Nov-2014 03:15:10 America/New_York] PHP  12. system_block_view() /var/www/drupal_7/includes/module.inc:866
+[24-Nov-2014 03:15:10 America/New_York] PHP  13. menu_get_active_help() /var/www/drupal_7/modules/system/system.module:2088
+[24-Nov-2014 03:15:10 America/New_York] PHP  14. menu_tab_root_path() /var/www/drupal_7/includes/menu.inc:1710
+[24-Nov-2014 03:15:10 America/New_York] PHP  15. menu_local_tasks() /var/www/drupal_7/includes/menu.inc:2254
+[24-Nov-2014 03:15:10 America/New_York] PHP  16. menu_get_item() /var/www/drupal_7/includes/menu.inc:1919
+[24-Nov-2014 03:15:10 America/New_York] PHP  17. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[24-Nov-2014 03:15:10 America/New_York] PHP  18. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[24-Nov-2014 03:15:10 America/New_York] PHP  19. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[24-Nov-2014 03:15:10 America/New_York] PHP  20. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[25-Nov-2014 09:15:14 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[25-Nov-2014 09:15:14 America/New_York] PHP Stack trace:
+[25-Nov-2014 09:15:14 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[25-Nov-2014 09:15:14 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[25-Nov-2014 09:15:14 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[25-Nov-2014 09:15:14 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[25-Nov-2014 09:15:14 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[25-Nov-2014 09:15:14 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[25-Nov-2014 09:15:14 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[25-Nov-2014 09:15:14 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[25-Nov-2014 09:15:14 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[25-Nov-2014 09:15:14 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[25-Nov-2014 09:15:14 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[25-Nov-2014 09:15:14 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[25-Nov-2014 09:15:14 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[25-Nov-2014 09:15:14 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[25-Nov-2014 09:15:14 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[25-Nov-2014 09:15:14 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[25-Nov-2014 09:15:14 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[25-Nov-2014 09:15:14 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[26-Nov-2014 00:06:51 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[26-Nov-2014 00:06:52 America/New_York] PHP Stack trace:
+[26-Nov-2014 00:06:52 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[26-Nov-2014 00:06:52 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[26-Nov-2014 00:06:52 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[26-Nov-2014 00:06:52 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[26-Nov-2014 00:06:52 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[26-Nov-2014 00:06:52 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[26-Nov-2014 00:06:52 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[26-Nov-2014 00:06:52 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[26-Nov-2014 00:06:52 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[26-Nov-2014 00:06:52 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[28-Nov-2014 09:20:19 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[28-Nov-2014 09:20:19 America/New_York] PHP Stack trace:
+[28-Nov-2014 09:20:19 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[28-Nov-2014 09:20:19 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[28-Nov-2014 09:20:19 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[28-Nov-2014 09:20:19 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[28-Nov-2014 09:20:19 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[28-Nov-2014 09:20:19 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[28-Nov-2014 09:20:19 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[28-Nov-2014 09:20:19 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[28-Nov-2014 09:20:19 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[28-Nov-2014 09:20:19 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[28-Nov-2014 09:20:19 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[28-Nov-2014 09:20:19 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[28-Nov-2014 09:20:19 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[28-Nov-2014 09:20:19 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[28-Nov-2014 09:20:19 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[28-Nov-2014 09:20:19 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[28-Nov-2014 09:20:19 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[28-Nov-2014 09:20:19 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[29-Nov-2014 12:46:09 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[29-Nov-2014 12:46:09 America/New_York] PHP Stack trace:
+[29-Nov-2014 12:46:09 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[29-Nov-2014 12:46:09 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[29-Nov-2014 12:46:09 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[29-Nov-2014 12:46:09 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[29-Nov-2014 12:46:09 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[29-Nov-2014 12:46:09 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[29-Nov-2014 12:46:09 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[29-Nov-2014 12:46:09 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[29-Nov-2014 12:46:09 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[29-Nov-2014 12:46:09 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[29-Nov-2014 12:46:09 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[29-Nov-2014 12:46:09 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[29-Nov-2014 12:46:09 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[29-Nov-2014 12:46:09 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[29-Nov-2014 12:46:09 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[29-Nov-2014 12:46:09 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[29-Nov-2014 12:46:09 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[29-Nov-2014 12:46:09 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[30-Nov-2014 02:27:15 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[30-Nov-2014 02:27:16 America/New_York] PHP Stack trace:
+[30-Nov-2014 02:27:16 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[30-Nov-2014 02:27:16 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[30-Nov-2014 02:27:16 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[30-Nov-2014 02:27:16 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[30-Nov-2014 02:27:16 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[30-Nov-2014 02:27:16 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[30-Nov-2014 02:27:16 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[30-Nov-2014 02:27:16 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[30-Nov-2014 02:27:16 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[30-Nov-2014 02:27:16 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[30-Nov-2014 02:27:16 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[30-Nov-2014 02:27:16 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[30-Nov-2014 02:27:16 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[30-Nov-2014 02:27:16 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[30-Nov-2014 02:27:16 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[30-Nov-2014 02:27:16 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[30-Nov-2014 02:27:16 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[30-Nov-2014 02:27:16 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[01-Dec-2014 05:31:11 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[01-Dec-2014 05:31:12 America/New_York] PHP Stack trace:
+[01-Dec-2014 05:31:12 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[01-Dec-2014 05:31:12 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[01-Dec-2014 05:31:12 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[01-Dec-2014 05:31:12 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[01-Dec-2014 05:31:12 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[01-Dec-2014 05:31:12 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[01-Dec-2014 05:31:12 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[01-Dec-2014 05:31:12 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[01-Dec-2014 05:31:12 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[01-Dec-2014 05:31:12 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[01-Dec-2014 05:31:12 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[01-Dec-2014 05:31:12 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[01-Dec-2014 05:31:12 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[01-Dec-2014 05:31:12 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[01-Dec-2014 05:31:12 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[01-Dec-2014 05:31:12 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[01-Dec-2014 05:31:12 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[01-Dec-2014 05:31:12 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[02-Dec-2014 06:31:53 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[02-Dec-2014 06:31:53 America/New_York] PHP Stack trace:
+[02-Dec-2014 06:31:53 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[02-Dec-2014 06:31:53 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[02-Dec-2014 06:31:53 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[02-Dec-2014 06:31:53 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[02-Dec-2014 06:31:53 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[02-Dec-2014 06:31:53 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[02-Dec-2014 06:31:53 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[02-Dec-2014 06:31:53 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[02-Dec-2014 06:31:53 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[02-Dec-2014 06:31:53 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[02-Dec-2014 06:31:53 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[02-Dec-2014 06:31:53 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[02-Dec-2014 06:31:53 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[02-Dec-2014 06:31:53 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[02-Dec-2014 06:31:53 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[02-Dec-2014 06:31:53 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[02-Dec-2014 06:31:53 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[02-Dec-2014 06:31:53 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[02-Dec-2014 07:09:09 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[02-Dec-2014 07:09:09 America/New_York] PHP Stack trace:
+[02-Dec-2014 07:09:09 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[02-Dec-2014 07:09:09 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[02-Dec-2014 07:09:09 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[02-Dec-2014 07:09:09 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[02-Dec-2014 07:09:09 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[02-Dec-2014 07:09:09 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[02-Dec-2014 07:09:09 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[02-Dec-2014 07:09:09 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[02-Dec-2014 07:09:09 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[02-Dec-2014 07:09:09 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[03-Dec-2014 18:06:36 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[03-Dec-2014 18:06:36 America/New_York] PHP Stack trace:
+[03-Dec-2014 18:06:36 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[03-Dec-2014 18:06:36 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[03-Dec-2014 18:06:36 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[03-Dec-2014 18:06:36 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[03-Dec-2014 18:06:36 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[03-Dec-2014 18:06:36 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[03-Dec-2014 18:06:36 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[03-Dec-2014 18:06:36 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[03-Dec-2014 18:06:36 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[03-Dec-2014 18:06:36 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[03-Dec-2014 18:06:36 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[03-Dec-2014 18:06:36 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[03-Dec-2014 18:06:36 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[03-Dec-2014 18:06:36 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[03-Dec-2014 18:06:36 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[03-Dec-2014 18:06:36 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[03-Dec-2014 18:06:36 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[03-Dec-2014 18:06:36 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[05-Dec-2014 17:42:48 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[05-Dec-2014 17:42:48 America/New_York] PHP Stack trace:
+[05-Dec-2014 17:42:48 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[05-Dec-2014 17:42:48 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[05-Dec-2014 17:42:48 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[05-Dec-2014 17:42:48 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[05-Dec-2014 17:42:48 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[05-Dec-2014 17:42:48 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[05-Dec-2014 17:42:48 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[05-Dec-2014 17:42:48 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[05-Dec-2014 17:42:48 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[05-Dec-2014 17:42:48 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[06-Dec-2014 03:11:41 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[06-Dec-2014 03:11:42 America/New_York] PHP Stack trace:
+[06-Dec-2014 03:11:44 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[06-Dec-2014 03:11:44 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[06-Dec-2014 03:11:44 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[06-Dec-2014 03:11:44 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[06-Dec-2014 03:11:44 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[06-Dec-2014 03:11:44 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[06-Dec-2014 03:11:44 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[06-Dec-2014 03:11:44 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[06-Dec-2014 03:11:44 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[06-Dec-2014 03:11:44 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[06-Dec-2014 03:11:43 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[06-Dec-2014 03:11:44 America/New_York] PHP Stack trace:
+[06-Dec-2014 03:11:44 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[06-Dec-2014 03:11:44 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[06-Dec-2014 03:11:44 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[06-Dec-2014 03:11:44 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[06-Dec-2014 03:11:44 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[06-Dec-2014 03:11:44 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[06-Dec-2014 03:11:44 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[06-Dec-2014 03:11:44 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[06-Dec-2014 03:11:44 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[06-Dec-2014 03:11:44 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[06-Dec-2014 03:11:44 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[06-Dec-2014 03:11:44 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[06-Dec-2014 03:11:44 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[06-Dec-2014 03:11:44 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[06-Dec-2014 03:11:44 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[06-Dec-2014 03:11:45 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[06-Dec-2014 03:11:45 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[06-Dec-2014 03:11:45 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[06-Dec-2014 09:41:16 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[06-Dec-2014 09:41:17 America/New_York] PHP Stack trace:
+[06-Dec-2014 09:41:17 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[06-Dec-2014 09:41:17 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[06-Dec-2014 09:41:17 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[06-Dec-2014 09:41:17 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[06-Dec-2014 09:41:17 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[06-Dec-2014 09:41:17 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[06-Dec-2014 09:41:17 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[06-Dec-2014 09:41:17 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[06-Dec-2014 09:41:17 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[06-Dec-2014 09:41:17 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[07-Dec-2014 13:15:38 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[07-Dec-2014 13:15:38 America/New_York] PHP Stack trace:
+[07-Dec-2014 13:15:38 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[07-Dec-2014 13:15:38 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[07-Dec-2014 13:15:38 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[07-Dec-2014 13:15:38 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[07-Dec-2014 13:15:38 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[07-Dec-2014 13:15:38 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[07-Dec-2014 13:15:38 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[07-Dec-2014 13:15:38 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[07-Dec-2014 13:15:38 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[07-Dec-2014 13:15:38 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[07-Dec-2014 22:38:39 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[07-Dec-2014 22:38:40 America/New_York] PHP Stack trace:
+[07-Dec-2014 22:38:40 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[07-Dec-2014 22:38:40 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[07-Dec-2014 22:38:40 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[07-Dec-2014 22:38:40 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[07-Dec-2014 22:38:40 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[07-Dec-2014 22:38:40 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[07-Dec-2014 22:38:40 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[07-Dec-2014 22:38:40 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[07-Dec-2014 22:38:40 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[07-Dec-2014 22:38:40 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[07-Dec-2014 22:38:40 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[07-Dec-2014 22:38:40 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[07-Dec-2014 22:38:40 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[07-Dec-2014 22:38:40 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[07-Dec-2014 22:38:40 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[07-Dec-2014 22:38:40 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[07-Dec-2014 22:38:40 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[07-Dec-2014 22:38:40 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[08-Dec-2014 01:54:39 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[08-Dec-2014 01:54:39 America/New_York] PHP Stack trace:
+[08-Dec-2014 01:54:39 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[08-Dec-2014 01:54:39 America/New_York] PHP   2. drupal_bootstrap() /var/www/drupal_7/index.php:20
+[08-Dec-2014 01:54:39 America/New_York] PHP   3. _drupal_bootstrap_full() /var/www/drupal_7/includes/bootstrap.inc:2267
+[08-Dec-2014 01:54:39 America/New_York] PHP   4. menu_set_custom_theme() /var/www/drupal_7/includes/common.inc:5155
+[08-Dec-2014 01:54:39 America/New_York] PHP   5. menu_get_custom_theme() /var/www/drupal_7/includes/menu.inc:1770
+[08-Dec-2014 01:54:39 America/New_York] PHP   6. menu_get_item() /var/www/drupal_7/includes/menu.inc:1755
+[08-Dec-2014 01:54:39 America/New_York] PHP   7. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[08-Dec-2014 01:54:39 America/New_York] PHP   8. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[08-Dec-2014 01:54:39 America/New_York] PHP   9. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[08-Dec-2014 01:54:39 America/New_York] PHP  10. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[08-Dec-2014 02:03:18 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[08-Dec-2014 02:03:18 America/New_York] PHP Stack trace:
+[08-Dec-2014 02:03:18 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[08-Dec-2014 02:03:18 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[08-Dec-2014 02:03:18 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[08-Dec-2014 02:03:18 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[08-Dec-2014 02:03:18 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[08-Dec-2014 02:03:18 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[08-Dec-2014 02:03:18 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[08-Dec-2014 02:03:18 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[08-Dec-2014 02:03:18 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[08-Dec-2014 02:03:18 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[08-Dec-2014 02:03:18 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[08-Dec-2014 02:03:18 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[08-Dec-2014 02:03:18 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[08-Dec-2014 02:03:18 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[08-Dec-2014 02:03:18 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[08-Dec-2014 02:03:18 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[08-Dec-2014 02:03:18 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[08-Dec-2014 02:03:18 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[09-Dec-2014 01:03:18 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[09-Dec-2014 01:03:20 America/New_York] PHP Stack trace:
+[09-Dec-2014 01:03:20 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[09-Dec-2014 01:03:20 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[09-Dec-2014 01:03:20 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[09-Dec-2014 01:03:20 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[09-Dec-2014 01:03:20 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[09-Dec-2014 01:03:20 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[09-Dec-2014 01:03:20 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[09-Dec-2014 01:03:20 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[09-Dec-2014 01:03:20 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[09-Dec-2014 01:03:20 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[09-Dec-2014 01:03:20 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[09-Dec-2014 01:03:20 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[09-Dec-2014 01:03:20 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[09-Dec-2014 01:03:20 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[09-Dec-2014 01:03:20 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[09-Dec-2014 01:03:20 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[09-Dec-2014 01:03:20 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[09-Dec-2014 01:03:20 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
+[09-Dec-2014 11:37:18 America/New_York] PHP Parse error:  syntax error, unexpected 'dc96a40c7a6715' (T_STRING), expecting ']' in /var/www/drupal_7/modules/php/php.module(80) : eval()'d code on line 1
+[09-Dec-2014 11:37:18 America/New_York] PHP Stack trace:
+[09-Dec-2014 11:37:18 America/New_York] PHP   1. {main}() /var/www/drupal_7/index.php:0
+[09-Dec-2014 11:37:18 America/New_York] PHP   2. menu_execute_active_handler() /var/www/drupal_7/index.php:21
+[09-Dec-2014 11:37:18 America/New_York] PHP   3. drupal_deliver_page() /var/www/drupal_7/includes/menu.inc:532
+[09-Dec-2014 11:37:18 America/New_York] PHP   4. drupal_deliver_html_page() /var/www/drupal_7/includes/common.inc:2557
+[09-Dec-2014 11:37:18 America/New_York] PHP   5. drupal_render_page() /var/www/drupal_7/includes/common.inc:2669
+[09-Dec-2014 11:37:18 America/New_York] PHP   6. drupal_render() /var/www/drupal_7/includes/common.inc:5760
+[09-Dec-2014 11:37:18 America/New_York] PHP   7. theme() /var/www/drupal_7/includes/common.inc:5898
+[09-Dec-2014 11:37:18 America/New_York] PHP   8. template_process_page() /var/www/drupal_7/includes/theme.inc:1122
+[09-Dec-2014 11:37:18 America/New_York] PHP   9. drupal_get_breadcrumb() /var/www/drupal_7/includes/theme.inc:2602
+[09-Dec-2014 11:37:18 America/New_York] PHP  10. menu_get_active_breadcrumb() /var/www/drupal_7/includes/common.inc:259
+[09-Dec-2014 11:37:18 America/New_York] PHP  11. menu_get_active_trail() /var/www/drupal_7/includes/menu.inc:2572
+[09-Dec-2014 11:37:18 America/New_York] PHP  12. menu_set_active_trail() /var/www/drupal_7/includes/menu.inc:2554
+[09-Dec-2014 11:37:18 America/New_York] PHP  13. menu_link_get_preferred() /var/www/drupal_7/includes/menu.inc:2385
+[09-Dec-2014 11:37:18 America/New_York] PHP  14. menu_get_item() /var/www/drupal_7/includes/menu.inc:2476
+[09-Dec-2014 11:37:18 America/New_York] PHP  15. _menu_translate() /var/www/drupal_7/includes/menu.inc:472
+[09-Dec-2014 11:37:18 America/New_York] PHP  16. _menu_check_access() /var/www/drupal_7/includes/menu.inc:790
+[09-Dec-2014 11:37:18 America/New_York] PHP  17. call_user_func_array() /var/www/drupal_7/includes/menu.inc:637
+[09-Dec-2014 11:37:18 America/New_York] PHP  18. php_eval() /var/www/drupal_7/includes/menu.inc:637
